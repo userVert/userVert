@@ -1,26 +1,14 @@
-- 👋 Hi, I’m @userVert
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-userVert/userVert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <div align="center">
   <h3>
-    👋 Hi, I'm Erick Cestari, a Full Stack Developer From Brazil
+    👋 Hi, I'm Vert, a Full Stack Developer From Brazil
   </h3>
 </div>
 
 ## **🕵️‍♂️ About me:**
 ```TS
-const erick: Record<string, string | string[]> = {
-  age: "19 years",
-  work: "A fullStack developer at BrBit Sistemas",
+const vert: Record<string, string | string[]> = {
+  age: "21 years",
+  work: "A fullStack developer at Minecraft Server",
   reading: ["crafting interpreter"],
   learning: ["Rust"],
   education: ["Computer technician", "Studying information systems"],
